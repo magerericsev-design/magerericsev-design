@@ -10,7 +10,7 @@ I turn real-world needs and ideas into working software, games and tools with **
 
 - **[Cockpit Solaire](https://github.com/magerericsev-design/terrelfe)** — a real-world home energy dashboard combining photovoltaic production, local data processing, Linky-related data, Météo-France data and API integrations.
 - **[Zéphyr — L'Essentiel](https://github.com/magerericsev-design/zephyr-essentiel)** — a minimalist e-paper information-display experiment focused on prioritizing the three most useful pieces of information for the day.
-- **Number Merge** — an Android puzzle game developed iteratively with Codex, currently being prepared for external beta testing.
+- **[Number Merge](https://github.com/magerericsev-design/number-merge)** — an Android puzzle game developed iteratively with Codex, currently being prepared for external beta testing.
 
 I also experiment with PC games, desktop utilities, multimedia tools, local AI workflows and small professional tools.
 
