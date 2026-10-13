@@ -1,28 +1,49 @@
-# Bonjour, moi c'est Eric !
+# Eric Mager
 
-**Créateur de projets avec l'IA | Expérimentation, conception et retours d'expérience**
+**Non-developer builder · ChatGPT & Codex · PC · Android · APIs · local AI · France**
 
-Je travaille dans la coordination de pose et le suivi de projets chez Leroy Merlin. Je ne suis pas développeur de métier : je pars d'un besoin ou d'une idée, j'essaie de comprendre les contraintes, puis je construis, teste et améliore avec l'aide de **ChatGPT et Codex**.
+I turn real-world needs and ideas into working software, games and tools with **ChatGPT and Codex** — without a traditional software-development background.
 
-Ce qui m'intéresse, ce n'est pas seulement de générer du code. C'est de transformer une idée en quelque chose qui fonctionne, d'en comprendre les limites et de partager ce que j'apprends, y compris lorsque ça ne marche pas.
+▶️ **Quick demo:** [What I build with Codex — YouTube Short](https://youtube.com/shorts/aSn0-0Be8hA?feature=share)
 
-## Projets
+## What I build with Codex
 
-- **[Cockpit Solaire](https://github.com/magerericsev-design/terrelfe)** — suivi énergétique et photovoltaïque, avec interface web et passerelles locales. Le dépôt public ne contient pas les données personnelles ni les identifiants.
-- **[Zéphyr — L'Essentiel](https://github.com/magerericsev-design/zephyr-essentiel)** — exploration d'un affichage e-paper minimaliste, avec trois informations utiles hiérarchisées pour la journée.
-- **Number Merge** — jeu de réflexion développé de manière itérative, en préparation de tests Android.
-- **Asteria Industries / GEM** — prototypes de jeux de gestion et de puzzle, avec une attention particulière aux règles, à l'équilibrage et à l'expérience de jeu.
+- **[Cockpit Solaire](https://github.com/magerericsev-design/terrelfe)** — a real-world home energy dashboard combining photovoltaic production, local data processing, Linky-related data, Météo-France data and API integrations.
+- **[Zéphyr — L'Essentiel](https://github.com/magerericsev-design/zephyr-essentiel)** — a minimalist e-paper information-display experiment focused on prioritizing the three most useful pieces of information for the day.
+- **Number Merge** — an Android puzzle game developed iteratively with Codex, currently being prepared for external beta testing.
 
-## Ma démarche
+I also experiment with PC games, desktop utilities, multimedia tools, local AI workflows and small professional tools.
 
-**Comprendre → concevoir → expérimenter → tester → corriger → partager.**
+## My approach
 
-Je documente les projets au fur et à mesure ; tout n'est pas public et un prototype n'est pas automatiquement un produit fini. Les retours d'utilisateurs m'intéressent autant que la partie technique.
+**Understand → design → build → test → break → fix → iterate → share.**
+
+I use AI as a practical engineering partner, not just as a code generator. I start from the actual goal, constraints and users, then work through implementation, debugging, packaging and real-world testing.
+
+Some of my most useful lessons come from the parts that fail: long-running project continuity, API integration, tool orchestration, deployment, UX and the gap between “it works” and “someone can actually use it”.
+
+## Pourquoi je fais ça
+
+Je travaille dans la coordination de projets et je ne suis pas développeur de métier.
+
+Ce qui m'intéresse avec l'IA n'est pas simplement de générer du code : c'est de voir jusqu'où une personne avec une idée, une compréhension du besoin et beaucoup de curiosité peut aller avec des outils comme **ChatGPT et Codex**.
+
+Mes projets sont principalement personnels et expérimentaux. Certains sont publics ici ; d'autres restent privés, notamment lorsqu'ils contiennent des données personnelles, des intégrations locales ou des éléments encore en test.
+
+## Current focus
+
+- Shipping and testing small, complete products rather than isolated demos
+- Android and desktop applications
+- Real-world APIs and personal data dashboards
+- Local AI and lightweight model orchestration
+- Sharing practical Codex workflows for non-developers
 
 ---
 
-### In English
+### Français / English
 
-I'm Eric, a project coordination professional in France exploring how **ChatGPT and Codex** can turn ideas into working software, games and useful tools — without a traditional software-development background. My approach is to understand the problem, build carefully, test with real people, learn from failures and share practical results.
+**FR** — Je documente progressivement mes projets, mes réussites et mes erreurs. Tout n'est pas public et un prototype n'est pas automatiquement un produit fini.
+
+**EN** — I document projects as they evolve, including what works and what does not. Not everything is public, and a prototype is not automatically a finished product.
 
 *Curiosity first. Reality checks always.*
