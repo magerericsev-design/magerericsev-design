@@ -1,51 +1,47 @@
 # Eric Mager
 
-**Non-developer builder · ChatGPT & Codex · PC · Android · APIs · local AI · France**
+**Créateur indépendant · Jeux vidéo, applications et IA locale · ChatGPT & Codex · France**
 
-🌐 **Portfolio — [ERIC MAGER — LAB](https://eric-mager-lab.balmylily512.chatgpt.site/fr/)** · [English version](https://eric-mager-lab.balmylily512.chatgpt.site/en/)
+## [ERIC MAGER — LAB · Mon portfolio](https://eric-mager-lab.balmylily512.chatgpt.site/)
 
-I turn real-world needs and ideas into working software, games and tools with **ChatGPT and Codex** — without a traditional software-development background.
+[Français](https://eric-mager-lab.balmylily512.chatgpt.site/fr/) · [English](https://eric-mager-lab.balmylily512.chatgpt.site/en/) · [Essayer un projet / Testing](https://eric-mager-lab.balmylily512.chatgpt.site/fr/tests/)
 
-▶️ **Quick demo:** [What I build with Codex — YouTube Short](https://youtube.com/shorts/aSn0-0Be8hA?feature=share)
+Je conçois, développe, teste et publie mes projets personnels avec l’aide de **ChatGPT et Codex**. Je ne suis pas développeur de métier : j’apprends en construisant des jeux, des applications et des outils à partir d’idées et de besoins concrets.
 
-## What I build with Codex
+Le portfolio présente mes créations, leurs captures et leur état réel de développement. Ce profil GitHub rassemble les projets et les éléments que je rends publics.
 
-- **[Cockpit Solaire](https://github.com/magerericsev-design/terrelfe)** — a real-world home energy dashboard combining photovoltaic production, local data processing, Linky-related data, Météo-France data and API integrations.
-- **[Zéphyr — L'Essentiel](https://github.com/magerericsev-design/zephyr-essentiel)** — a minimalist e-paper information-display experiment focused on prioritizing the three most useful pieces of information for the day.
-- **[Number Merge](https://github.com/magerericsev-design/number-merge)** — an Android puzzle game developed iteratively with Codex, currently being prepared for external beta testing.
+**Independent creator in France.** I design, build, test and publish personal games, applications and tools with the help of ChatGPT and Codex, without a traditional software-development background. My portfolio is the central place to explore the projects and find available test versions.
 
-I also experiment with PC games, desktop utilities, multimedia tools, local AI workflows and small professional tools.
+## Projets publics
 
-## My approach
+| Projet | Ce qui est disponible |
+| --- | --- |
+| [Cockpit Solaire](https://github.com/magerericsev-design/terrelfe) | Tableau de bord photovoltaïque : production, consommation, amortissement, météo et intégrations API. Démonstration Windows publique avec données fictives. |
+| [Number Merge](https://github.com/magerericsev-design/number-merge) | Jeu de réflexion numérique sur Android. Version bêta proposée dans les releases GitHub. |
+| [GEM — Tokyo by Night](https://github.com/magerericsev-design/gem-tokyo-by-night) | Jeu de puzzle hors ligne pour PC et Android, avec modes Arcade et FLASH. Version Android de test disponible. |
+| [Le Barbu des Mager](https://github.com/magerericsev-design/le-barbu-des-mager) | Jeu de cartes français pour Windows et Android. Version Android de test disponible. |
+| [Zéphyr — L’Essentiel](https://github.com/magerericsev-design/zephyr-essentiel) | Expérimentation e-paper en pause avant fabrication matérielle. Le dépôt public présente un exemple de format JSON. |
 
-**Understand → design → build → test → break → fix → iterate → share.**
+D’autres créations sont présentées dans le portfolio : [ASTERIA INDUSTRIES](https://eric-mager-lab.balmylily512.chatgpt.site/fr/projets/asteria-industries/), [LA CLAUSE](https://eric-mager-lab.balmylily512.chatgpt.site/fr/projets/la-clause/) et [ZÉPHYR DESKTOP](https://eric-mager-lab.balmylily512.chatgpt.site/fr/projets/zephyr-desktop/).
 
-I use AI as a practical engineering partner, not just as a code generator. I start from the actual goal, constraints and users, then work through implementation, debugging, packaging and real-world testing.
+## Ma façon de travailler
 
-Some of my most useful lessons come from the parts that fail: long-running project continuity, API integration, tool orchestration, deployment, UX and the gap between “it works” and “someone can actually use it”.
+**Comprendre → concevoir → développer → tester → corriger → itérer → partager.**
 
-## Pourquoi je fais ça
+Je définis le besoin, les contraintes et l’expérience recherchée. L’IA m’accompagne dans l’exploration, le code et la résolution des problèmes ; je garde la direction du projet, les choix et la vérification des résultats. Les essais, les erreurs et les retours d’usage font partie du travail.
 
-Je travaille dans la coordination de projets et je ne suis pas développeur de métier.
+Je m’intéresse particulièrement aux jeux PC et Android, aux tableaux de bord et API, à l’IA locale, à l’automatisation et à la mise à disposition de versions réellement utilisables.
 
-Ce qui m'intéresse avec l'IA n'est pas simplement de générer du code : c'est de voir jusqu'où une personne avec une idée, une compréhension du besoin et beaucoup de curiosité peut aller avec des outils comme **ChatGPT et Codex**.
+[Voir une démonstration : What I build with Codex](https://youtube.com/shorts/aSn0-0Be8hA?feature=share)
 
-Mes projets sont principalement personnels et expérimentaux. Certains sont publics ici ; d'autres restent privés, notamment lorsqu'ils contiennent des données personnelles, des intégrations locales ou des éléments encore en test.
+## Découvrir et participer
 
-## Current focus
+- **[ERIC MAGER — LAB](https://eric-mager-lab.balmylily512.chatgpt.site/)** : présentation centrale des créations, état d’avancement et possibilités de test lorsqu’elles sont ouvertes.
+- **GitHub** : dépôts, documentation et versions publiques existantes. Certains dépôts sont des vitrines et ne contiennent pas les sources complètes.
+- **[LinkedIn](https://www.linkedin.com/in/eric-mager-albi/)** : parcours professionnel, expériences et actualités de mes projets personnels.
 
-- Shipping and testing small, complete products rather than isolated demos
-- Android and desktop applications
-- Real-world APIs and personal data dashboards
-- Local AI and lightweight model orchestration
-- Sharing practical Codex workflows for non-developers
+Les projets sont présentés avec leurs limites. Un prototype n’est pas un produit fini ; un APK de test ne signifie pas une publication Google Play. Les sources privées, données personnelles, intégrations locales et clés de signature restent privées.
 
----
-
-### Français / English
-
-**FR** — Je documente progressivement mes projets, mes réussites et mes erreurs. Tout n'est pas public et un prototype n'est pas automatiquement un produit fini.
-
-**EN** — I document projects as they evolve, including what works and what does not. Not everything is public, and a prototype is not automatically a finished product.
+*Personal independent projects — no affiliation with OpenAI.*
 
 *Curiosity first. Reality checks always.*
