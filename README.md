@@ -2,6 +2,8 @@
 
 **Non-developer builder · ChatGPT & Codex · PC · Android · APIs · local AI · France**
 
+🌐 **Portfolio — [ERIC MAGER — LAB](https://eric-mager-lab.balmylily512.chatgpt.site/fr/)** · [English version](https://eric-mager-lab.balmylily512.chatgpt.site/en/)
+
 I turn real-world needs and ideas into working software, games and tools with **ChatGPT and Codex** — without a traditional software-development background.
 
 ▶️ **Quick demo:** [What I build with Codex — YouTube Short](https://youtube.com/shorts/aSn0-0Be8hA?feature=share)
