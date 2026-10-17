@@ -1,6 +1,6 @@
 # Changelog — FR / EN
 
-## 1.4.0 — candidat local / local candidate — 2026-10-17
+## 1.4.0 — version de test publique / public test version — 2026-10-17
 - Premier lancement et profil installé séparé ; import facultatif par copie sauvegardée, prise en compte WAL, clés exclues. / Separate first-run and installed profile; optional backed-up import with WAL handling and no keys.
 - Kitsune canonique, identité, histoire, aide et retours avec adresse copiable. / Canonical Kitsune, identity, history, help and feedback with a copyable address.
 - Boutons désactivés pendant les opérations concernées ; identification avec aperçu local, suggestions PROBABLE à confirmer. / Appropriate busy states; identification with local preview and PROBABLE suggestions requiring confirmation.
@@ -8,6 +8,8 @@
 - Préparation d'un ZIP Portable RC, de notices, de contrôles d'intégrité et d'une présentation documentaire. Pas de version publique stable. / Portable RC ZIP, notices, integrity checks and documentary showcase prepared. No stable public release.
 
 ### Distribution de test / Test distribution
+La version 1.4.0 est disponible publiquement et gratuitement comme RC de test, sans qualification stable. Site et documentation bilingues, installateur français/anglais ; interface de l’application principalement française. / Version 1.4.0 is publicly available for free as a test RC, without stable qualification. Bilingual website and documentation, French/English installer; primarily French application interface.
+
 Setup x64 RC français/anglais, installation par utilisateur sans administration, raccourcis, VLC 3.0.24 sélectionné et runtime Visual C++ inclus. Sources tierces séparées. Code propre réservé. Ancien Portable RC conservé comme artefact distinct. / French/English per-user Setup x64 RC without elevation, shortcuts, selected VLC 3.0.24 and Visual C++ included. Separate third-party sources. Own code reserved. Original Portable RC remains a distinct artefact.
 
 ## 1.3.0 — locale / local

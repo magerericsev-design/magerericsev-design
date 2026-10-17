@@ -16,7 +16,7 @@ ZephyrFlix organise vos fichiers vidéo locaux dans une médiathèque Windows : 
 ### Un projet né dans l'atelier
 Eric Mager, alias **Terrelfe**, voulait retrouver ses anciens films sans parcourir une arborescence de dossiers. Une première approche web a rencontré les limites des formats lisibles dans un navigateur. Le projet est devenu une application Windows native avec Rust, Slint, SQLite et libVLC.
 
-Une première version fonctionnait en septembre 2026. Après la perte des sources, la reprise d'octobre s'est appuyée sur l'historique technique survivant. Elle a aussi permis de retravailler le catalogue, le lecteur, les données et les détails de l'interface. Le besoin initial a évolué ; l'envie de soigner l'outil et de le proposer gratuitement est restée.
+Une première version fonctionnait en septembre 2026. Après la perte des sources, la reprise d'octobre s'est appuyée sur l'historique technique survivant. Elle a aussi permis de retravailler le catalogue, le lecteur, les données et les détails de l'interface. Le besoin initial a évolué ; le travail de finition s'est poursuivi et ZephyrFlix est désormais proposé publiquement en version de test gratuite. Des validations complémentaires restent nécessaires avant de le considérer comme stable.
 
 Zéphyr est l'identité de l'IA personnelle d'Eric et sa partenaire de réflexion et de création. Eric conçoit, arbitre et valide ; l'assistance IA et Codex participent au développement et à la documentation. Le Kitsune blanc aux marques rouges et aux yeux ambrés accompagne cet univers.
 
@@ -33,9 +33,11 @@ Zéphyr est l'identité de l'IA personnelle d'Eric et sa partenaire de réflexio
 ### Télécharger et démarrer la version de test
 **[Page officielle de téléchargement — ZephyrFlix 1.4.0 RC](https://eric-mager-lab.balmylily512.chatgpt.site/downloads/zephyrflix/)**
 
-Version de test gratuite pour **Windows 10 x64 (1809 ou ultérieur) et Windows 11 x64**. Le test sur un autre PC Windows x64 n'a pas encore été réalisé ; cette version n'est pas annoncée comme stable.
+Version de test gratuite disponible publiquement pour **Windows 10 x64 (1809 ou ultérieur) et Windows 11 x64**. Le test sur un autre PC Windows x64 n'a pas encore été réalisé ; cette version n'est pas annoncée comme stable.
 
 L'installateur **Setup x64 RC 1.4** propose le français et l'anglais, installe l'application pour votre compte **sans droits administrateur**, et crée les raccourcis Bureau et menu Démarrer. **Le lecteur VLC 3.0.24 sélectionné pour cette distribution et le runtime Visual C++ sont inclus** : aucune installation séparée de VLC n'est nécessaire pour ce Setup. Les données du profil restent séparées de l'application et sont conservées lors de la désinstallation.
+
+**Langues : le site, la documentation et l'installateur sont disponibles en français et en anglais ; l'interface actuelle de ZephyrFlix reste principalement en français.**
 
 1. Télécharger le **Setup x64 RC** depuis la page officielle et vérifier son SHA-256 si souhaité.
 2. Double-cliquer dessus, choisir la langue et suivre les étapes d'installation.
@@ -68,7 +70,7 @@ ZephyrFlix turns your own local video files into a Windows library with films, s
 ### From a practical need to a shared project
 Eric Mager, also known as **Terrelfe**, wanted to find old films without browsing endless folders. An early web approach ran into browser format limitations. ZephyrFlix became a native Windows application built with Rust, Slint, SQLite and libVLC.
 
-The first working version dates to September 2026. Following source loss, the October recovery used surviving technical history and became an opportunity to improve the catalogue, playback, data handling and interface. Although the original need has evolved, the intention remains to refine a useful tool and share it for free.
+The first working version dates to September 2026. Following source loss, the October recovery used surviving technical history and became an opportunity to improve the catalogue, playback, data handling and interface. Although the original need has evolved, refinement continued and ZephyrFlix is now publicly available as a free test version. Further validation is needed before it can be considered stable.
 
 Zéphyr is the identity of Eric's personal AI and his thinking and creation partner. Eric directs and validates the work; AI assistance and Codex support development and documentation. The white Kitsune, with red markings and amber eyes, is part of this creative universe.
 
@@ -83,9 +85,11 @@ Zéphyr is the identity of Eric's personal AI and his thinking and creation part
 ### Download and start the test version
 **[Official download page — ZephyrFlix 1.4.0 RC](https://eric-mager-lab.balmylily512.chatgpt.site/downloads/zephyrflix/)**
 
-Free test version for **Windows 10 x64 (1809 or later) and Windows 11 x64**. Testing on a separate Windows x64 PC has not been performed; this version is not advertised as stable.
+Publicly available free test version for **Windows 10 x64 (1809 or later) and Windows 11 x64**. Testing on a separate Windows x64 PC has not been performed; this version is not advertised as stable.
 
 The **Setup x64 RC 1.4** installer offers French and English, installs for your account **without administrator privileges**, and creates desktop and Start menu shortcuts. **The selected VLC 3.0.24 player runtime and Visual C++ runtime are included**: this Setup does not require a separate VLC installation. Profile data stays separate from application files and is preserved when uninstalling.
+
+**The installer and documentation are available in English, but the current application interface is primarily in French. The LAB website is bilingual.**
 
 1. Download **Setup x64 RC** from the official page and check SHA-256 if desired.
 2. Double-click it, choose a language and follow the installation steps.

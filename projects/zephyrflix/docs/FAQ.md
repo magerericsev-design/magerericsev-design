@@ -1,7 +1,9 @@
 # FAQ — FR / EN
 
 ## Français
-**Où télécharger ZephyrFlix ?** La version de test gratuite 1.4 RC est présentée sur la [page officielle](https://eric-mager-lab.balmylily512.chatgpt.site/downloads/zephyrflix/). Ce candidat n'est pas une version stable ; l'essai sur un autre Windows x64 reste à faire.
+**Où télécharger ZephyrFlix ?** La version de test gratuite 1.4 RC est disponible publiquement depuis la [page officielle](https://eric-mager-lab.balmylily512.chatgpt.site/downloads/zephyrflix/). Ce candidat n'est pas une version stable ; l'essai sur un autre Windows x64 reste à faire.
+
+**Quelles langues sont disponibles ?** Le site et la documentation sont bilingues français/anglais, comme l'installateur. L'interface actuelle de ZephyrFlix reste principalement en français ; aucune traduction complète de l'application n'est annoncée.
 
 **Est-ce gratuit et open source ?** L'utilisation est gratuite. Le code est privé et réservé pour le moment. Ce sont deux décisions distinctes.
 
@@ -22,7 +24,9 @@
 **Faut-il un compte administrateur ?** Le Setup installe pour votre compte sans droits administrateur, avec raccourcis Bureau et menu Démarrer. La désinstallation conserve les données du profil. Windows 10 x64 1809+ et Windows 11 x64 sont ciblés.
 
 ## English
-**Where can I download ZephyrFlix?** The free 1.4 RC test version is presented on the [official page](https://eric-mager-lab.balmylily512.chatgpt.site/downloads/zephyrflix/). This candidate is not stable; separate Windows x64 testing remains pending.
+**Where can I download ZephyrFlix?** The free 1.4 RC test version is publicly available through the [official page](https://eric-mager-lab.balmylily512.chatgpt.site/downloads/zephyrflix/). This candidate is not stable; separate Windows x64 testing remains pending.
+
+**Which languages are available?** The website, documentation and installer are available in French and English, but the current application interface is primarily in French. A complete English application translation is not advertised.
 
 **Is it free and open source?** Usage is free. Own source code is private and reserved for now. Those are separate decisions.
 

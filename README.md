@@ -21,7 +21,6 @@ Le portfolio présente mes créations, leurs captures et leur état réel de dé
 | [GEM — Tokyo by Night](https://github.com/magerericsev-design/gem-tokyo-by-night) | Jeu de puzzle hors ligne pour PC et Android, avec modes Arcade et FLASH. Version Android de test disponible. |
 | [Le Barbu des Mager](https://github.com/magerericsev-design/le-barbu-des-mager) | Jeu de cartes français pour Windows et Android. Version Android de test disponible. |
 | [Zéphyr — L’Essentiel](https://github.com/magerericsev-design/zephyr-essentiel) | Expérimentation e-paper en pause avant fabrication matérielle. Le dépôt public présente un exemple de format JSON. |
-
 | [ZephyrFlix](projects/zephyrflix/) | Médiathèque Windows x64 gratuite, code réservé. Installateur avec lecteur inclus, proposé comme version de test. |
 
 D’autres créations sont présentées dans le portfolio : [ASTERIA INDUSTRIES](https://eric-mager-lab.balmylily512.chatgpt.site/fr/projets/asteria-industries/), [LA CLAUSE](https://eric-mager-lab.balmylily512.chatgpt.site/fr/projets/la-clause/) et [ZÉPHYR DESKTOP](https://eric-mager-lab.balmylily512.chatgpt.site/fr/projets/zephyr-desktop/).

@@ -9,7 +9,7 @@
 
 Le **Kitsune de Zéphyr** apporte un fil visuel commun : blanc, marques rouges distinctives, yeux dorés ou ambrés, de trois à neuf queues suivant les contextes. Cette page utilise le fichier canonique fourni par Eric, sans modification. Chaque projet conserve sa propre histoire, son état de maturité et ses conditions d'accès et de droits.
 
-Pour ZephyrFlix : organisation des vidéos locales, candidat 1.4 en validation, version de test gratuite, code réservé. [Découvrir le projet](../README.md). [Visiter ERIC MAGER — LAB](https://eric-mager-lab.balmylily512.chatgpt.site).
+Pour ZephyrFlix : organisation des vidéos locales, version 1.4 disponible publiquement en test gratuit, non qualifiée stable, code réservé. [Découvrir le projet](../README.md). [Visiter ERIC MAGER — LAB](https://eric-mager-lab.balmylily512.chatgpt.site).
 
 ## English
 **Eric Mager**, also known as **Terrelfe**, is the author and person responsible for the creations gathered in ERIC MAGER — LAB. His workshop starts with practical needs and curiosity: understanding solar production, exploring a game mechanic or finding local videos.
@@ -18,6 +18,6 @@ Pour ZephyrFlix : organisation des vidéos locales, candidat 1.4 en validation, 
 
 **Zéphyr's Kitsune** provides a shared visual thread: white fur, distinctive red markings, gold or amber eyes, and three to nine tails depending on context. This page uses Eric's unmodified canonical file. Each project keeps its own history, maturity and access/rights conditions.
 
-For ZephyrFlix: local video organisation, candidate 1.4 under validation, free test version, own code reserved. [Explore the project](../README.md). [Visit ERIC MAGER — LAB](https://eric-mager-lab.balmylily512.chatgpt.site).
+For ZephyrFlix: local video organisation, version 1.4 publicly available as a free test, not qualified stable, own code reserved. [Explore the project](../README.md). [Visit ERIC MAGER — LAB](https://eric-mager-lab.balmylily512.chatgpt.site).
 
 **Contact : zephyr.essentiel@gmail.com** · [mailto](mailto:zephyr.essentiel@gmail.com?subject=ERIC%20MAGER%20LAB%20-%20Contact).
