@@ -1,0 +1,18 @@
+# This repository is a documentation showcase only.
+*.exe
+*.dll
+*.zip
+*.db
+*.db-*
+*.sqlite*
+*.log
+*.env
+.env*
+target/
+data/
+cache/
+logs/
+audit/
+src/
+sources/
+.tools/

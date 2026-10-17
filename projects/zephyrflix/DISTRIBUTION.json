@@ -1,0 +1,33 @@
+{
+  "version": "1.4.0",
+  "status": "public-test-candidate",
+  "stableQualified": false,
+  "cleanWindowsTested": false,
+  "downloadPage": "https://eric-mager-lab.balmylily512.chatgpt.site/downloads/zephyrflix/",
+  "installer": {
+    "filename": "ZephyrFlix-1.4.0-Setup-x64-RC.exe",
+    "bytes": 43236329,
+    "sha256": "6549fde05786679bf76779f02ad95aa83f4407656cf7c2055268ea6ebb913593",
+    "playerIncluded": true,
+    "codeSigned": false
+  },
+  "thirdPartySource": {
+    "filename": "ZephyrFlix-1.4.0-Composants-Sources.zip",
+    "sha256": "5b6bf80768cd6d205170d456a98a89cd3ee1197c5fb0837c3bb09e479eb93dcf",
+    "bytes": 212253218
+  },
+  "localChecks": {
+    "installer": "PASS",
+    "shortcuts": "PASS",
+    "reinstallPreservesLibrary": "PASS",
+    "uninstallPreservesLibrary": "PASS",
+    "uninstallRemovesShortcuts": "PASS",
+    "bundledDecodingFormats": [
+      "MP4",
+      "MKV",
+      "AVI"
+    ]
+  },
+  "sourceCode": "private",
+  "price": "free"
+}
